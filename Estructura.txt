@@ -1,0 +1,24 @@
+Menu.
+
+Inicio
+
+La Clinica:
+
+	* ¿Quienes Somos?
+	* Ubucación
+	* Personal Ejecutivo
+
+Servicios
+	* Cirugía
+	* Hospitalización
+	* Exámenes
+	* Estudios
+	* Consultas
+
+Doctores
+
+	* Citas
+	* Consultar Disponibilidad
+	* Contactar
+
+Contactenos
